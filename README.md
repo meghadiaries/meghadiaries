@@ -1,5 +1,6 @@
-#  About Me
+# About Me
 <p align="center">
+
 
 ### 🚀 Student Developer | AI & Full-Stack Systems
 I am a **B.Tech Computer Science student** at Jaypee Institute of Information Technology, passionate about **AI-integrated applications** and **high-performance web architectures** using React and Node.js.
@@ -13,27 +14,27 @@ I am a **B.Tech Computer Science student** at Jaypee Institute of Information Te
 ### 💻 Tech Stack
 <p align="center">
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> &nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> &nbsp;
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-9b59b6?style=for-the-badge&logo=python&logoColor=ffffff" /> &nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-f1c40f?style=for-the-badge&logo=javascript&logoColor=000000" /> &nbsp;
+  <img src="https://img.shields.io/badge/C++-2980b9?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff" /> &nbsp;
+  <img src="https://img.shields.io/badge/Java-e67e22?style=for-the-badge&logo=openjdk&logoColor=ffffff" /> &nbsp;
+  <img src="https://img.shields.io/badge/SQL-16a085?style=for-the-badge&logo=postgresql&logoColor=ffffff" />
 </p>
 
 <p align="center">
   <!-- AI & ML -->
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/LLaMA%203-0467DF?style=for-the-badge&logo=meta&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-8e44ad?style=for-the-badge&logo=openai&logoColor=ffffff" /> &nbsp;
+  <img src="https://img.shields.io/badge/LLaMA%203-3498db?style=for-the-badge&logo=meta&logoColor=ffffff" /> &nbsp;
+  <img src="https://img.shields.io/badge/Pandas-2ecc71?style=for-the-badge&logo=pandas&logoColor=ffffff" /> &nbsp;
+  <img src="https://img.shields.io/badge/NumPy-1abc9c?style=for-the-badge&logo=numpy&logoColor=ffffff" />
 </p>
 
 <p align="center">
   <!-- Web & DB -->
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> &nbsp;
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=000000" /> &nbsp;
+  <img src="https://img.shields.io/badge/Node.js-27ae60?style=for-the-badge&logo=node.js&logoColor=ffffff" /> &nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-2980b9?style=for-the-badge&logo=postgresql&logoColor=ffffff" /> &nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-16a085?style=for-the-badge&logo=mongodb&logoColor=ffffff" />
 </p>
 
 ---
@@ -55,10 +56,9 @@ I am a **B.Tech Computer Science student** at Jaypee Institute of Information Te
 ### 📫 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/meghadiaries" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-8e44ad?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn"/>
+  </a> &nbsp;&nbsp;
   <a href="mailto:megha2005wb@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-e74c3c?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Gmail"/>
   </a>
 </p>
